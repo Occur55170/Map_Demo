@@ -1,0 +1,1 @@
+import{_ as r,r as o,a,c,o as n}from"./index.1e87441b.js";const p={setup(t,{emit:s}){const e=o({});return a(),{state:e}}};function _(t,s,e,f,i,u){return n(),c("div",null," \u6211\u662F\u5168\u57DF\u7D44\u5EFA ")}const d=r(p,[["render",_]]);export{d as default};
