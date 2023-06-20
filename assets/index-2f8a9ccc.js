@@ -1,0 +1,2 @@
+import{_ as o,r as a,a as n,c,b as i,d as p,w as d,e as u,o as f}from"./index-dd2b276c.js";const l={setup(s,{emit:e}){const r=a({}),t=u;return n(),{state:r,route:t}}};function m(s,e,r,t,_,x){return f(),c("div",null,[i(" index "),p("a",{href:"",onClick:e[0]||(e[0]=d(v=>t.route.push({name:"map"}),["prevent"]))}," 進入圖臺 ")])}const k=o(l,[["render",m]]);export{k as default};
+//# sourceMappingURL=index-2f8a9ccc.js.map
